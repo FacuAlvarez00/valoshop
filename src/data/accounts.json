@@ -1,0 +1,1228 @@
+{
+  "accounts": [
+    {
+      "id": "acbac464-4ee6-45e6-a134-32893f575e6d",
+      "title": "CURRENT RADIANT 14k VP SPENT",
+      "price": 100,
+      "currency": "USD",
+      "status": "available",
+      "region": "NA",
+      "rank": "Radiant",
+      "featured": false,
+      "skins": [
+        {
+          "uuid": "8699940e-4b59-cf9f-509e-7fa07b0772ba",
+          "weaponName": "Frenzy",
+          "displayName": "Spellbound Frenzy",
+          "displayIcon": "https://media.valorant-api.com/weaponskinchromas/afc2dc37-49bb-82c3-21ad-bc883a4a0b6b/fullrender.png",
+          "rarity": "Select",
+          "rarityColor": "#5a9fe2"
+        },
+        {
+          "uuid": "b85adb09-4edb-2478-f46a-4fb341e8e341",
+          "weaponName": "Odin",
+          "displayName": "Solarex Odin",
+          "displayIcon": "https://media.valorant-api.com/weaponskinchromas/b6ead618-4576-89e3-e4bd-56af93121329/fullrender.png",
+          "rarity": "Deluxe",
+          "rarityColor": "#009587"
+        },
+        {
+          "uuid": "b8257548-41b4-5474-9050-b2a5c3a83d96",
+          "weaponName": "Guardian",
+          "displayName": "Tacti-Treat Guardian",
+          "displayIcon": "https://media.valorant-api.com/weaponskinchromas/a76fdbe1-4a19-7844-3158-bd924da62ffe/fullrender.png",
+          "rarity": "Select",
+          "rarityColor": "#5a9fe2"
+        },
+        {
+          "uuid": "3ed55540-45f4-2722-2f73-e7a3d415099e",
+          "weaponName": "Bucky",
+          "displayName": "Spellbound Bucky",
+          "displayIcon": "https://media.valorant-api.com/weaponskinchromas/d7440b6a-4520-6ef0-a27d-c5bd3da80507/fullrender.png",
+          "rarity": "Select",
+          "rarityColor": "#5a9fe2"
+        },
+        {
+          "uuid": "73c75732-4d65-7adc-fd95-45831a1854ed",
+          "weaponName": "Judge",
+          "displayName": "Tacti-Treat Judge",
+          "displayIcon": "https://media.valorant-api.com/weaponskinchromas/e3236055-4e6e-d3f9-9a93-77a0e241c1f4/fullrender.png",
+          "rarity": "Select",
+          "rarityColor": "#5a9fe2"
+        },
+        {
+          "uuid": "350e36cb-47ef-c53a-25c6-e5820a1127c4",
+          "weaponName": "Marshal",
+          "displayName": "Spellbound Marshal",
+          "displayIcon": "https://media.valorant-api.com/weaponskinchromas/7724cc4b-42ce-9496-5916-508e60c72a33/fullrender.png",
+          "rarity": "Select",
+          "rarityColor": "#5a9fe2"
+        },
+        {
+          "uuid": "526e3bf7-440b-b43b-4718-a3a227d5a6ba",
+          "weaponName": "Phantom",
+          "displayName": "Solarex Phantom",
+          "displayIcon": "https://media.valorant-api.com/weaponskinchromas/ea99945a-4a25-b922-0533-e59c916942e6/fullrender.png",
+          "rarity": "Deluxe",
+          "rarityColor": "#009587"
+        },
+        {
+          "uuid": "7c58095b-4b41-db03-572d-5ba86b653331",
+          "weaponName": "Ghost",
+          "displayName": "Tacti-Treat Ghost",
+          "displayIcon": "https://media.valorant-api.com/weaponskinchromas/b902eb3f-4cc3-e59f-a1d9-7f865c96e887/fullrender.png",
+          "rarity": "Select",
+          "rarityColor": "#5a9fe2"
+        },
+        {
+          "uuid": "e9a12903-4272-aedc-715f-55a48975ee90",
+          "weaponName": "Bulldog",
+          "displayName": "Spellbound Bulldog",
+          "displayIcon": "https://media.valorant-api.com/weaponskinchromas/25542627-4617-99a5-7838-7882995d5285/fullrender.png",
+          "rarity": "Select",
+          "rarityColor": "#5a9fe2"
+        },
+        {
+          "uuid": "8f813d71-4dc5-9b3a-439f-83a1f679246f",
+          "weaponName": "Spectre",
+          "displayName": "Solarex Spectre",
+          "displayIcon": "https://media.valorant-api.com/weaponskinchromas/58755364-4036-d4df-dc13-f19f9ed13d72/fullrender.png",
+          "rarity": "Deluxe",
+          "rarityColor": "#009587"
+        },
+        {
+          "uuid": "a9e4b278-4ac3-b8d1-8f0c-14a2e76b2c17",
+          "weaponName": "Operator",
+          "displayName": "Tacti-Treat Operator",
+          "displayIcon": "https://media.valorant-api.com/weaponskinchromas/4c921251-4c75-eb82-9d20-a3beb71f4f88/fullrender.png",
+          "rarity": "Select",
+          "rarityColor": "#5a9fe2"
+        },
+        {
+          "uuid": "6fc7fb5f-4984-4507-3ff8-6ca2c0848050",
+          "weaponName": "Melee",
+          "displayName": "Solarex Relic",
+          "displayIcon": "https://media.valorant-api.com/weaponskinchromas/23514842-4cc3-5acc-acf1-fd80f2e694bb/fullrender.png",
+          "rarity": "Exclusive",
+          "rarityColor": "#f5955b"
+        },
+        {
+          "uuid": "6b5a9a9b-4e4f-9caf-564c-45859f20738e",
+          "weaponName": "Sheriff",
+          "displayName": "Solarex Sheriff",
+          "displayIcon": "https://media.valorant-api.com/weaponskinchromas/c7c168c9-4744-a5e1-fe66-c88a56493994/fullrender.png",
+          "rarity": "Deluxe",
+          "rarityColor": "#009587"
+        },
+        {
+          "uuid": "7c4f7e27-4dcb-0b66-659f-cc94d720e67e",
+          "weaponName": "Vandal",
+          "displayName": "Holo Meridian Vandal",
+          "displayIcon": "https://media.valorant-api.com/weaponskinchromas/aa6c599d-42a6-326d-5c4a-3895308ddfb6/fullrender.png",
+          "rarity": "Exclusive",
+          "rarityColor": "#f5955b",
+          "vpCost": 2175
+        },
+        {
+          "uuid": "d07a7266-4757-1da9-e957-baa93c9fc43f",
+          "weaponName": "Judge",
+          "displayName": "Holo Meridian Judge",
+          "displayIcon": "https://media.valorant-api.com/weaponskinchromas/a797a1fc-4150-36fc-68e2-1a87a2a4e088/fullrender.png",
+          "rarity": "Exclusive",
+          "rarityColor": "#f5955b",
+          "vpCost": 2175
+        },
+        {
+          "uuid": "5ff60bfc-4a7f-b9bf-245d-f2b4e31de6a4",
+          "weaponName": "Sheriff",
+          "displayName": "Holo Meridian Sheriff",
+          "displayIcon": "https://media.valorant-api.com/weaponskinchromas/15cfe9f1-4eb1-8b21-9cf0-67bd31062802/fullrender.png",
+          "rarity": "Exclusive",
+          "rarityColor": "#f5955b",
+          "vpCost": 2175
+        },
+        {
+          "uuid": "c60a5448-4eb5-9fd7-991b-029a325a3281",
+          "weaponName": "Operator",
+          "displayName": "Holo Meridian Operator",
+          "displayIcon": "https://media.valorant-api.com/weaponskinchromas/9583f06e-4fee-bd0e-563d-eda4ea754636/fullrender.png",
+          "rarity": "Exclusive",
+          "rarityColor": "#f5955b",
+          "vpCost": 2175
+        },
+        {
+          "uuid": "81b1f855-4f18-382b-a06e-dead577fdf49",
+          "weaponName": "Melee",
+          "displayName": "Holoflare",
+          "displayIcon": "https://media.valorant-api.com/weaponskinchromas/1db84ec1-4649-80df-7884-a3abd074cf14/fullrender.png",
+          "rarity": "Exclusive",
+          "rarityColor": "#f5955b",
+          "vpCost": 4350
+        }
+      ],
+      "agents": [
+        {
+          "uuid": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
+          "displayName": "Sova",
+          "displayIcon": "https://media.valorant-api.com/agents/320b2a48-4d9b-a075-30f1-1f93a9b638fa/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/320b2a48-4d9b-a075-30f1-1f93a9b638fa/fullportrait.png",
+          "role": "Initiator",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/1b47567f-8f7b-444b-aae3-b0c634622d10/displayicon.png"
+        },
+        {
+          "uuid": "eb93336a-449b-9c1b-0a54-a891f7921d69",
+          "displayName": "Phoenix",
+          "displayIcon": "https://media.valorant-api.com/agents/eb93336a-449b-9c1b-0a54-a891f7921d69/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/eb93336a-449b-9c1b-0a54-a891f7921d69/fullportrait.png",
+          "role": "Duelist",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/dbe8757e-9e92-4ed4-b39f-9dfc589691d4/displayicon.png"
+        },
+        {
+          "uuid": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
+          "displayName": "Brimstone",
+          "displayIcon": "https://media.valorant-api.com/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417/fullportrait.png",
+          "role": "Controller",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/4ee40330-ecdd-4f2f-98a8-eb1243428373/displayicon.png"
+        },
+        {
+          "uuid": "569fdd95-4d10-43ab-ca70-79becc718b46",
+          "displayName": "Sage",
+          "displayIcon": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/fullportrait.png",
+          "role": "Sentinel",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/5fc02f99-4091-4486-a531-98459a3e95e9/displayicon.png"
+        },
+        {
+          "uuid": "add6443a-41bd-e414-f6ad-e58d267f4e95",
+          "displayName": "Jett",
+          "displayIcon": "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/fullportrait.png",
+          "role": "Duelist",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/dbe8757e-9e92-4ed4-b39f-9dfc589691d4/displayicon.png"
+        }
+      ],
+      "buddies": [
+        {
+          "uuid": "8a0c6b2f-4439-f9c2-6631-6ca252000f21",
+          "displayName": "Spellbound Buddy",
+          "displayIcon": "https://media.valorant-api.com/buddylevels/60ca70d6-4993-c444-eb92-da84a5ca8c22/displayicon.png"
+        },
+        {
+          "uuid": "d782c0e3-47af-494b-8f6e-dfad9cf0f703",
+          "displayName": "V25 ACT III Coin Buddy",
+          "displayIcon": "https://media.valorant-api.com/buddylevels/3ea83a6c-4c17-9f85-fc58-66951ba0baa0/displayicon.png"
+        },
+        {
+          "uuid": "f5ae115d-4176-be65-f97f-e9813f00f5ad",
+          "displayName": "Nightmare Toes Buddy",
+          "displayIcon": "https://media.valorant-api.com/buddylevels/a921f0e4-4416-913e-d084-4aa89a5f882e/displayicon.png"
+        },
+        {
+          "uuid": "ca289ec7-4747-5d93-8254-40b4baa59e03",
+          "displayName": "Beta Key Buddy",
+          "displayIcon": "https://media.valorant-api.com/buddylevels/1905637a-4c4b-1138-23e6-1eba0f4ba768/displayicon.png"
+        },
+        {
+          "uuid": "c679852f-4ba7-57d6-1e30-6d8ac22faf61",
+          "displayName": "Jett's Windbreaker Buddy",
+          "displayIcon": "https://media.valorant-api.com/buddylevels/c576df3c-4000-fcc2-2897-bf9f4fa2b1c1/displayicon.png"
+        },
+        {
+          "uuid": "08ef49a4-4747-9208-0b44-42aae768bba2",
+          "displayName": "Squish Ball Buddy",
+          "displayIcon": "https://media.valorant-api.com/buddylevels/1867a1c4-40c1-c640-e7c2-839925b2b958/displayicon.png"
+        },
+        {
+          "uuid": "96680619-4a7f-7ea2-d935-47a71758f844",
+          "displayName": "Boba Truck Buddy",
+          "displayIcon": "https://media.valorant-api.com/buddylevels/3a1671fb-4f0e-15b4-dd30-5eb5e13e13a5/displayicon.png"
+        },
+        {
+          "uuid": "377553a1-4102-31e2-0884-b98783a4b2f1",
+          "displayName": "Solarex Buddy",
+          "displayIcon": "https://media.valorant-api.com/buddylevels/460cb2a3-443a-0a99-dda8-e588e2ac589f/displayicon.png"
+        },
+        {
+          "uuid": "eaf7cdf3-4471-1ebe-47ad-3f92a431e7b1",
+          "displayName": "Killer Frog Buddy",
+          "displayIcon": "https://media.valorant-api.com/buddylevels/0c76d14a-412b-74c6-d513-27a10938d1b4/displayicon.png"
+        },
+        {
+          "uuid": "bf6db4b3-4d5b-b3f4-f28c-7992181bc91e",
+          "displayName": "Epilogue: Jett's Windbreaker Buddy",
+          "displayIcon": "https://media.valorant-api.com/buddylevels/1c96940e-49ce-fbc3-3171-9cbc83a828f5/displayicon.png"
+        },
+        {
+          "uuid": "e8ba2996-4086-bcaa-c6e4-9fbebaac82ec",
+          "displayName": "Holo Meridian Buddy",
+          "displayIcon": "https://media.valorant-api.com/buddies/e8ba2996-4086-bcaa-c6e4-9fbebaac82ec/displayicon.png"
+        },
+        {
+          "uuid": "4726b751-493b-3c00-825d-539d75df4db9",
+          "displayName": "Afterboom Buddy",
+          "displayIcon": "https://media.valorant-api.com/buddylevels/60586b16-4fed-d337-ce84-4b8beebea636/displayicon.png"
+        }
+      ],
+      "sprays": [
+        {
+          "uuid": "89319db4-4304-669e-533b-5bba442e7263",
+          "displayName": "Wingman For The Win Spray",
+          "displayIcon": "https://media.valorant-api.com/sprays/89319db4-4304-669e-533b-5bba442e7263/displayicon.png",
+          "animationGif": null
+        },
+        {
+          "uuid": "89ae319a-445d-b593-898f-3cbc237e4260",
+          "displayName": "Vyse Approved Spray",
+          "displayIcon": "https://media.valorant-api.com/sprays/89ae319a-445d-b593-898f-3cbc237e4260/displayicon.png",
+          "animationGif": null
+        },
+        {
+          "uuid": "90e66e16-4853-83c7-4d52-758435746402",
+          "displayName": "Feeling Defeated Spray",
+          "displayIcon": "https://media.valorant-api.com/sprays/90e66e16-4853-83c7-4d52-758435746402/displayicon.png",
+          "animationGif": null
+        },
+        {
+          "uuid": "3245ab35-4228-8306-572e-178724a2482f",
+          "displayName": "The Raja Spray",
+          "displayIcon": "https://media.valorant-api.com/sprays/3245ab35-4228-8306-572e-178724a2482f/displayicon.png",
+          "animationGif": null
+        },
+        {
+          "uuid": "b076da33-4050-78d7-d0b1-86ad96cf14ea",
+          "displayName": "My Leg Spray",
+          "displayIcon": "https://media.valorant-api.com/sprays/b076da33-4050-78d7-d0b1-86ad96cf14ea/displayicon.png",
+          "animationGif": null
+        },
+        {
+          "uuid": "7c3cc5ea-46a8-22ed-b848-f8b487e062ff",
+          "displayName": "Night.Market Conspiracy Spray",
+          "displayIcon": "https://media.valorant-api.com/sprays/7c3cc5ea-46a8-22ed-b848-f8b487e062ff/displayicon.png",
+          "animationGif": null
+        },
+        {
+          "uuid": "900f400a-40ea-00bb-7034-b79121c95f40",
+          "displayName": "Peeking Vents Spray",
+          "displayIcon": "https://media.valorant-api.com/sprays/900f400a-40ea-00bb-7034-b79121c95f40/displayicon.png",
+          "animationGif": null
+        },
+        {
+          "uuid": "ee30154d-4b5f-2973-35bb-23a8bd215180",
+          "displayName": "Refreshing! Spray",
+          "displayIcon": "https://media.valorant-api.com/sprays/ee30154d-4b5f-2973-35bb-23a8bd215180/displayicon.png",
+          "animationGif": null
+        },
+        {
+          "uuid": "87b1bd01-4ac7-d2f5-9781-50a938e522a3",
+          "displayName": "Knives Only Spray",
+          "displayIcon": "https://media.valorant-api.com/sprays/87b1bd01-4ac7-d2f5-9781-50a938e522a3/displayicon.png",
+          "animationGif": null
+        },
+        {
+          "uuid": "d36f37ac-409f-d88e-0fd1-2ca43b1f9e74",
+          "displayName": "Gaming Gekko Spray",
+          "displayIcon": "https://media.valorant-api.com/sprays/d36f37ac-409f-d88e-0fd1-2ca43b1f9e74/displayicon.png",
+          "animationGif": null
+        },
+        {
+          "uuid": "aa5c72e7-40eb-84d3-d38d-aaa66a93bf18",
+          "displayName": "Scribble Shock Dart Spray",
+          "displayIcon": "https://media.valorant-api.com/sprays/aa5c72e7-40eb-84d3-d38d-aaa66a93bf18/displayicon.png",
+          "animationGif": null
+        },
+        {
+          "uuid": "a7c01fd3-4332-5701-c9c3-48b61cc03afa",
+          "displayName": "RIP Cypher Spray",
+          "displayIcon": "https://media.valorant-api.com/sprays/a7c01fd3-4332-5701-c9c3-48b61cc03afa/displayicon.png",
+          "animationGif": null
+        },
+        {
+          "uuid": "b8c81609-45d0-93d1-dd51-67a59b85cb79",
+          "displayName": "Need To Reload Spray",
+          "displayIcon": "https://media.valorant-api.com/sprays/b8c81609-45d0-93d1-dd51-67a59b85cb79/displayicon.png",
+          "animationGif": null
+        },
+        {
+          "uuid": "50c6bc92-4476-44b6-9e15-c0a40390a630",
+          "displayName": "Balikbayan Box Spray",
+          "displayIcon": "https://media.valorant-api.com/sprays/50c6bc92-4476-44b6-9e15-c0a40390a630/displayicon.png",
+          "animationGif": "https://media.valorant-api.com/sprays/50c6bc92-4476-44b6-9e15-c0a40390a630/animation.gif"
+        },
+        {
+          "uuid": "93a2b549-47da-6dd9-182b-7d9f0fd698b2",
+          "displayName": "Jump Peek Jett Spray",
+          "displayIcon": "https://media.valorant-api.com/sprays/93a2b549-47da-6dd9-182b-7d9f0fd698b2/displayicon.png",
+          "animationGif": "https://media.valorant-api.com/sprays/93a2b549-47da-6dd9-182b-7d9f0fd698b2/animation.gif"
+        },
+        {
+          "uuid": "1268f207-48c8-7de6-8600-58ac2100f441",
+          "displayName": "Holo Meridian Spray",
+          "displayIcon": "https://media.valorant-api.com/sprays/1268f207-48c8-7de6-8600-58ac2100f441/displayicon.png",
+          "animationGif": null
+        }
+      ],
+      "cards": [
+        {
+          "uuid": "e35f4c2b-4a0b-9559-bd5d-88a5da94b845",
+          "displayName": "5 Years: Introducing Project A Card",
+          "smallArt": "https://media.valorant-api.com/playercards/e35f4c2b-4a0b-9559-bd5d-88a5da94b845/smallart.png",
+          "wideArt": "https://media.valorant-api.com/playercards/e35f4c2b-4a0b-9559-bd5d-88a5da94b845/wideart.png",
+          "largeArt": "https://media.valorant-api.com/playercards/e35f4c2b-4a0b-9559-bd5d-88a5da94b845/largeart.png"
+        },
+        {
+          "uuid": "af33fc06-4d7a-4a57-1ae5-b2b046c499ab",
+          "displayName": "5 Years: Duelists Card",
+          "smallArt": "https://media.valorant-api.com/playercards/af33fc06-4d7a-4a57-1ae5-b2b046c499ab/smallart.png",
+          "wideArt": "https://media.valorant-api.com/playercards/af33fc06-4d7a-4a57-1ae5-b2b046c499ab/wideart.png",
+          "largeArt": "https://media.valorant-api.com/playercards/af33fc06-4d7a-4a57-1ae5-b2b046c499ab/largeart.png"
+        },
+        {
+          "uuid": "c735d61b-4bd7-4b7b-631a-c394f6ef24e5",
+          "displayName": "5 Years: The Color of the Town Card",
+          "smallArt": "https://media.valorant-api.com/playercards/c735d61b-4bd7-4b7b-631a-c394f6ef24e5/smallart.png",
+          "wideArt": "https://media.valorant-api.com/playercards/c735d61b-4bd7-4b7b-631a-c394f6ef24e5/wideart.png",
+          "largeArt": "https://media.valorant-api.com/playercards/c735d61b-4bd7-4b7b-631a-c394f6ef24e5/largeart.png"
+        },
+        {
+          "uuid": "59861a06-4cb7-24d0-b8f8-c58ad033e5d3",
+          "displayName": "5 Years: Prime Vandal Aimbot Card",
+          "smallArt": "https://media.valorant-api.com/playercards/59861a06-4cb7-24d0-b8f8-c58ad033e5d3/smallart.png",
+          "wideArt": "https://media.valorant-api.com/playercards/59861a06-4cb7-24d0-b8f8-c58ad033e5d3/wideart.png",
+          "largeArt": "https://media.valorant-api.com/playercards/59861a06-4cb7-24d0-b8f8-c58ad033e5d3/largeart.png"
+        },
+        {
+          "uuid": "64109d0b-4f4a-f7b9-1f80-6c9ff3bf88e5",
+          "displayName": "5 Years: Turn the Tides Card",
+          "smallArt": "https://media.valorant-api.com/playercards/64109d0b-4f4a-f7b9-1f80-6c9ff3bf88e5/smallart.png",
+          "wideArt": "https://media.valorant-api.com/playercards/64109d0b-4f4a-f7b9-1f80-6c9ff3bf88e5/wideart.png",
+          "largeArt": "https://media.valorant-api.com/playercards/64109d0b-4f4a-f7b9-1f80-6c9ff3bf88e5/largeart.png"
+        },
+        {
+          "uuid": "b0aaf4d6-40f6-300d-6ede-aca5ad5658ab",
+          "displayName": "5 Years: Can't Slow Me Down Card",
+          "smallArt": "https://media.valorant-api.com/playercards/b0aaf4d6-40f6-300d-6ede-aca5ad5658ab/smallart.png",
+          "wideArt": "https://media.valorant-api.com/playercards/b0aaf4d6-40f6-300d-6ede-aca5ad5658ab/wideart.png",
+          "largeArt": "https://media.valorant-api.com/playercards/b0aaf4d6-40f6-300d-6ede-aca5ad5658ab/largeart.png"
+        },
+        {
+          "uuid": "eaafa5d2-438c-6c5d-33fb-dc987fc44eda",
+          "displayName": "5 Years: Cypher's Revenge Card",
+          "smallArt": "https://media.valorant-api.com/playercards/eaafa5d2-438c-6c5d-33fb-dc987fc44eda/smallart.png",
+          "wideArt": "https://media.valorant-api.com/playercards/eaafa5d2-438c-6c5d-33fb-dc987fc44eda/wideart.png",
+          "largeArt": "https://media.valorant-api.com/playercards/eaafa5d2-438c-6c5d-33fb-dc987fc44eda/largeart.png"
+        },
+        {
+          "uuid": "1ee76b8c-45c4-a5c0-c32c-a6bd0ee82ce8",
+          "displayName": "5 Years: Introducing Deathmatch Card",
+          "smallArt": "https://media.valorant-api.com/playercards/1ee76b8c-45c4-a5c0-c32c-a6bd0ee82ce8/smallart.png",
+          "wideArt": "https://media.valorant-api.com/playercards/1ee76b8c-45c4-a5c0-c32c-a6bd0ee82ce8/wideart.png",
+          "largeArt": "https://media.valorant-api.com/playercards/1ee76b8c-45c4-a5c0-c32c-a6bd0ee82ce8/largeart.png"
+        },
+        {
+          "uuid": "7d57e1d7-4be8-24f3-874d-4984714424f1",
+          "displayName": "5 Years: Welcoming China Card",
+          "smallArt": "https://media.valorant-api.com/playercards/7d57e1d7-4be8-24f3-874d-4984714424f1/smallart.png",
+          "wideArt": "https://media.valorant-api.com/playercards/7d57e1d7-4be8-24f3-874d-4984714424f1/wideart.png",
+          "largeArt": "https://media.valorant-api.com/playercards/7d57e1d7-4be8-24f3-874d-4984714424f1/largeart.png"
+        },
+        {
+          "uuid": "fb23477d-49d7-17c4-3a90-2f88e4425400",
+          "displayName": "5 Years: Welcoming Console Card",
+          "smallArt": "https://media.valorant-api.com/playercards/fb23477d-49d7-17c4-3a90-2f88e4425400/smallart.png",
+          "wideArt": "https://media.valorant-api.com/playercards/fb23477d-49d7-17c4-3a90-2f88e4425400/wideart.png",
+          "largeArt": "https://media.valorant-api.com/playercards/fb23477d-49d7-17c4-3a90-2f88e4425400/largeart.png"
+        },
+        {
+          "uuid": "769040fd-4c97-72cd-50b0-0aadd1f8ab2f",
+          "displayName": "5 Years: Move or Die Card",
+          "smallArt": "https://media.valorant-api.com/playercards/769040fd-4c97-72cd-50b0-0aadd1f8ab2f/smallart.png",
+          "wideArt": "https://media.valorant-api.com/playercards/769040fd-4c97-72cd-50b0-0aadd1f8ab2f/wideart.png",
+          "largeArt": "https://media.valorant-api.com/playercards/769040fd-4c97-72cd-50b0-0aadd1f8ab2f/largeart.png"
+        },
+        {
+          "uuid": "ea1ea229-4509-f23a-2aa8-32bda7978fa9",
+          "displayName": "Epilogue: 5 Years: Introducing Project A Card",
+          "smallArt": "https://media.valorant-api.com/playercards/ea1ea229-4509-f23a-2aa8-32bda7978fa9/smallart.png",
+          "wideArt": "https://media.valorant-api.com/playercards/ea1ea229-4509-f23a-2aa8-32bda7978fa9/wideart.png",
+          "largeArt": "https://media.valorant-api.com/playercards/ea1ea229-4509-f23a-2aa8-32bda7978fa9/largeart.png"
+        },
+        {
+          "uuid": "822d27d4-46ad-5086-6ab9-3da703cabcb5",
+          "displayName": "Holo Meridian Card",
+          "smallArt": "https://media.valorant-api.com/playercards/822d27d4-46ad-5086-6ab9-3da703cabcb5/smallart.png",
+          "wideArt": "https://media.valorant-api.com/playercards/822d27d4-46ad-5086-6ab9-3da703cabcb5/wideart.png",
+          "largeArt": "https://media.valorant-api.com/playercards/822d27d4-46ad-5086-6ab9-3da703cabcb5/largeart.png"
+        }
+      ],
+      "titles": [
+        {
+          "uuid": "737723fc-4f7e-9676-d2d1-46ae2ca8684c",
+          "displayName": "5th Title",
+          "titleText": "5th"
+        },
+        {
+          "uuid": "3d9cda2b-4b2b-11c4-aa34-679987682f16",
+          "displayName": "5K Title",
+          "titleText": "5K"
+        },
+        {
+          "uuid": "6ee9282a-426a-7654-62d1-3fba65e8efe0",
+          "displayName": "Family Title",
+          "titleText": "Family"
+        }
+      ],
+      "createdAt": "2026-05-18T13:26:53.289Z",
+      "updatedAt": "2026-05-18T14:40:53.959Z"
+    },
+    {
+      "id": "39a61513-330b-48bb-bded-20197f6dbbbf",
+      "title": "adssad",
+      "price": 100,
+      "currency": "USD",
+      "status": "available",
+      "region": "NA",
+      "rank": "Radiant",
+      "featured": false,
+      "skins": [
+        {
+          "uuid": "4f1823dd-4a17-7511-6ac8-4aa28a6a263a",
+          "weaponName": "Vandal",
+          "displayName": "Blackthorn Vandal",
+          "displayIcon": "https://media.valorant-api.com/weaponskinchromas/75ea21d8-453d-ef05-47d4-948bf221bdae/fullrender.png",
+          "rarity": "Exclusive",
+          "rarityColor": "#f5955b",
+          "vpCost": 2175,
+          "chromas": [
+            {
+              "uuid": "75ea21d8-453d-ef05-47d4-948bf221bdae",
+              "swatch": "https://media.valorant-api.com/weaponskinchromas/75ea21d8-453d-ef05-47d4-948bf221bdae/swatch.png"
+            },
+            {
+              "uuid": "4bd1c7ae-4c5b-cf33-5bee-a2b092334433",
+              "swatch": "https://media.valorant-api.com/weaponskinchromas/4bd1c7ae-4c5b-cf33-5bee-a2b092334433/swatch.png"
+            },
+            {
+              "uuid": "ddd72231-444a-6878-82ba-eb9311edd52c",
+              "swatch": "https://media.valorant-api.com/weaponskinchromas/ddd72231-444a-6878-82ba-eb9311edd52c/swatch.png"
+            },
+            {
+              "uuid": "fa666f0a-40a4-41d0-a34f-1e96cfa8e9be",
+              "swatch": "https://media.valorant-api.com/weaponskinchromas/fa666f0a-40a4-41d0-a34f-1e96cfa8e9be/swatch.png"
+            }
+          ]
+        },
+        {
+          "uuid": "66668fb4-4143-bcf9-fd35-b39d93a13257",
+          "weaponName": "Classic",
+          "displayName": "Blackthorn Classic",
+          "displayIcon": "https://media.valorant-api.com/weaponskinchromas/905df5bb-4f1c-4768-ab36-e692f05212a5/fullrender.png",
+          "rarity": "Exclusive",
+          "rarityColor": "#f5955b",
+          "vpCost": 2175,
+          "chromas": [
+            {
+              "uuid": "905df5bb-4f1c-4768-ab36-e692f05212a5",
+              "swatch": "https://media.valorant-api.com/weaponskinchromas/905df5bb-4f1c-4768-ab36-e692f05212a5/swatch.png"
+            },
+            {
+              "uuid": "1b25fbc8-429f-21c6-1eaa-25a7b2c3200a",
+              "swatch": "https://media.valorant-api.com/weaponskinchromas/1b25fbc8-429f-21c6-1eaa-25a7b2c3200a/swatch.png"
+            },
+            {
+              "uuid": "e833917c-438f-773c-d23d-03bd9910bc30",
+              "swatch": "https://media.valorant-api.com/weaponskinchromas/e833917c-438f-773c-d23d-03bd9910bc30/swatch.png"
+            },
+            {
+              "uuid": "21d15133-4b5d-2f05-091d-3bb8f36095d9",
+              "swatch": "https://media.valorant-api.com/weaponskinchromas/21d15133-4b5d-2f05-091d-3bb8f36095d9/swatch.png"
+            }
+          ]
+        },
+        {
+          "uuid": "4047a667-4d1d-bb68-df9e-a09bfa68d934",
+          "weaponName": "Guardian",
+          "displayName": "Blackthorn Guardian",
+          "displayIcon": "https://media.valorant-api.com/weaponskinchromas/1603c2f9-4ca9-8746-ac7a-78a074aaed4c/fullrender.png",
+          "rarity": "Exclusive",
+          "rarityColor": "#f5955b",
+          "vpCost": 2175,
+          "chromas": [
+            {
+              "uuid": "1603c2f9-4ca9-8746-ac7a-78a074aaed4c",
+              "swatch": "https://media.valorant-api.com/weaponskinchromas/1603c2f9-4ca9-8746-ac7a-78a074aaed4c/swatch.png"
+            },
+            {
+              "uuid": "52dd90aa-4f78-b599-b748-42abe15d5472",
+              "swatch": "https://media.valorant-api.com/weaponskinchromas/52dd90aa-4f78-b599-b748-42abe15d5472/swatch.png"
+            },
+            {
+              "uuid": "e68e3dc4-4945-6f96-60bf-a8abb184eb43",
+              "swatch": "https://media.valorant-api.com/weaponskinchromas/e68e3dc4-4945-6f96-60bf-a8abb184eb43/swatch.png"
+            },
+            {
+              "uuid": "b9019fc6-4bef-5b4a-22a1-97ad2ebd8851",
+              "swatch": "https://media.valorant-api.com/weaponskinchromas/b9019fc6-4bef-5b4a-22a1-97ad2ebd8851/swatch.png"
+            }
+          ]
+        },
+        {
+          "uuid": "7c47be9b-48a5-752e-7229-f7b1668239dd",
+          "weaponName": "Marshal",
+          "displayName": "Blackthorn Marshal",
+          "displayIcon": "https://media.valorant-api.com/weaponskinchromas/da4134fb-498e-3012-0297-d0a4aeed76f0/fullrender.png",
+          "rarity": "Exclusive",
+          "rarityColor": "#f5955b",
+          "vpCost": 2175,
+          "chromas": [
+            {
+              "uuid": "da4134fb-498e-3012-0297-d0a4aeed76f0",
+              "swatch": "https://media.valorant-api.com/weaponskinchromas/da4134fb-498e-3012-0297-d0a4aeed76f0/swatch.png"
+            },
+            {
+              "uuid": "69a61c11-4c64-8056-5c20-7bb56a58e7e3",
+              "swatch": "https://media.valorant-api.com/weaponskinchromas/69a61c11-4c64-8056-5c20-7bb56a58e7e3/swatch.png"
+            },
+            {
+              "uuid": "48b9447d-444f-7c43-7d7f-6f99af95d07d",
+              "swatch": "https://media.valorant-api.com/weaponskinchromas/48b9447d-444f-7c43-7d7f-6f99af95d07d/swatch.png"
+            },
+            {
+              "uuid": "d42c7eaa-4ceb-5c91-9916-bb8b8aae22cb",
+              "swatch": "https://media.valorant-api.com/weaponskinchromas/d42c7eaa-4ceb-5c91-9916-bb8b8aae22cb/swatch.png"
+            }
+          ]
+        },
+        {
+          "uuid": "fa0972de-4868-1679-4a3e-7bb357f7f281",
+          "weaponName": "Melee",
+          "displayName": "Blackthorn Blades",
+          "displayIcon": "https://media.valorant-api.com/weaponskinchromas/e57becd4-4580-d8ca-1391-95815f421d94/fullrender.png",
+          "rarity": "Exclusive",
+          "rarityColor": "#f5955b",
+          "vpCost": 4350,
+          "chromas": [
+            {
+              "uuid": "e57becd4-4580-d8ca-1391-95815f421d94",
+              "swatch": "https://media.valorant-api.com/weaponskinchromas/e57becd4-4580-d8ca-1391-95815f421d94/swatch.png"
+            },
+            {
+              "uuid": "f975f81d-4ecb-fddb-af60-4eb00894872e",
+              "swatch": "https://media.valorant-api.com/weaponskinchromas/f975f81d-4ecb-fddb-af60-4eb00894872e/swatch.png"
+            },
+            {
+              "uuid": "745d8eb4-4500-842a-ad30-36afac02690c",
+              "swatch": "https://media.valorant-api.com/weaponskinchromas/745d8eb4-4500-842a-ad30-36afac02690c/swatch.png"
+            },
+            {
+              "uuid": "59ad50e6-4f96-5bea-60d4-b184756c072d",
+              "swatch": "https://media.valorant-api.com/weaponskinchromas/59ad50e6-4f96-5bea-60d4-b184756c072d/swatch.png"
+            }
+          ]
+        }
+      ],
+      "agents": [
+        {
+          "uuid": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
+          "displayName": "Sova",
+          "displayIcon": "https://media.valorant-api.com/agents/320b2a48-4d9b-a075-30f1-1f93a9b638fa/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/320b2a48-4d9b-a075-30f1-1f93a9b638fa/fullportrait.png",
+          "role": "Initiator",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/1b47567f-8f7b-444b-aae3-b0c634622d10/displayicon.png"
+        },
+        {
+          "uuid": "eb93336a-449b-9c1b-0a54-a891f7921d69",
+          "displayName": "Phoenix",
+          "displayIcon": "https://media.valorant-api.com/agents/eb93336a-449b-9c1b-0a54-a891f7921d69/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/eb93336a-449b-9c1b-0a54-a891f7921d69/fullportrait.png",
+          "role": "Duelist",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/dbe8757e-9e92-4ed4-b39f-9dfc589691d4/displayicon.png"
+        },
+        {
+          "uuid": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
+          "displayName": "Brimstone",
+          "displayIcon": "https://media.valorant-api.com/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417/fullportrait.png",
+          "role": "Controller",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/4ee40330-ecdd-4f2f-98a8-eb1243428373/displayicon.png"
+        },
+        {
+          "uuid": "569fdd95-4d10-43ab-ca70-79becc718b46",
+          "displayName": "Sage",
+          "displayIcon": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/fullportrait.png",
+          "role": "Sentinel",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/5fc02f99-4091-4486-a531-98459a3e95e9/displayicon.png"
+        },
+        {
+          "uuid": "add6443a-41bd-e414-f6ad-e58d267f4e95",
+          "displayName": "Jett",
+          "displayIcon": "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/fullportrait.png",
+          "role": "Duelist",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/dbe8757e-9e92-4ed4-b39f-9dfc589691d4/displayicon.png"
+        },
+        {
+          "uuid": "7f94d92c-4234-0a36-9646-3a87eb8b5c89",
+          "displayName": "Yoru",
+          "displayIcon": "https://media.valorant-api.com/agents/7f94d92c-4234-0a36-9646-3a87eb8b5c89/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/7f94d92c-4234-0a36-9646-3a87eb8b5c89/fullportrait.png",
+          "role": "Duelist",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/dbe8757e-9e92-4ed4-b39f-9dfc589691d4/displayicon.png"
+        },
+        {
+          "uuid": "707eab51-4836-f488-046a-cda6bf494859",
+          "displayName": "Viper",
+          "displayIcon": "https://media.valorant-api.com/agents/707eab51-4836-f488-046a-cda6bf494859/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/707eab51-4836-f488-046a-cda6bf494859/fullportrait.png",
+          "role": "Controller",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/4ee40330-ecdd-4f2f-98a8-eb1243428373/displayicon.png"
+        },
+        {
+          "uuid": "92eeef5d-43b5-1d4a-8d03-b3927a09034b",
+          "displayName": "Veto",
+          "displayIcon": "https://media.valorant-api.com/agents/92eeef5d-43b5-1d4a-8d03-b3927a09034b/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/92eeef5d-43b5-1d4a-8d03-b3927a09034b/fullportrait.png",
+          "role": "Sentinel",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/5fc02f99-4091-4486-a531-98459a3e95e9/displayicon.png"
+        },
+        {
+          "uuid": "7c8a4701-4de6-9355-b254-e09bc2a34b72",
+          "displayName": "Miks",
+          "displayIcon": "https://media.valorant-api.com/agents/7c8a4701-4de6-9355-b254-e09bc2a34b72/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/7c8a4701-4de6-9355-b254-e09bc2a34b72/fullportrait.png",
+          "role": "Controller",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/4ee40330-ecdd-4f2f-98a8-eb1243428373/displayicon.png"
+        },
+        {
+          "uuid": "601dbbe7-43ce-be57-2a40-4abd24953621",
+          "displayName": "KAY/O",
+          "displayIcon": "https://media.valorant-api.com/agents/601dbbe7-43ce-be57-2a40-4abd24953621/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/601dbbe7-43ce-be57-2a40-4abd24953621/fullportrait.png",
+          "role": "Initiator",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/1b47567f-8f7b-444b-aae3-b0c634622d10/displayicon.png"
+        },
+        {
+          "uuid": "a3bfb853-43b2-7238-a4f1-ad90e9e46bcc",
+          "displayName": "Reyna",
+          "displayIcon": "https://media.valorant-api.com/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/fullportrait.png",
+          "role": "Duelist",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/dbe8757e-9e92-4ed4-b39f-9dfc589691d4/displayicon.png"
+        },
+        {
+          "uuid": "1dbf2edd-4729-0984-3115-daa5eed44993",
+          "displayName": "Clove",
+          "displayIcon": "https://media.valorant-api.com/agents/1dbf2edd-4729-0984-3115-daa5eed44993/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/1dbf2edd-4729-0984-3115-daa5eed44993/fullportrait.png",
+          "role": "Controller",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/4ee40330-ecdd-4f2f-98a8-eb1243428373/displayicon.png"
+        },
+        {
+          "uuid": "22697a3d-45bf-8dd7-4fec-84a9e28c69d7",
+          "displayName": "Chamber",
+          "displayIcon": "https://media.valorant-api.com/agents/22697a3d-45bf-8dd7-4fec-84a9e28c69d7/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/22697a3d-45bf-8dd7-4fec-84a9e28c69d7/fullportrait.png",
+          "role": "Sentinel",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/5fc02f99-4091-4486-a531-98459a3e95e9/displayicon.png"
+        },
+        {
+          "uuid": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
+          "displayName": "Deadlock",
+          "displayIcon": "https://media.valorant-api.com/agents/cc8b64c8-4b25-4ff9-6e7f-37b4da43d235/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/cc8b64c8-4b25-4ff9-6e7f-37b4da43d235/fullportrait.png",
+          "role": "Sentinel",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/5fc02f99-4091-4486-a531-98459a3e95e9/displayicon.png"
+        },
+        {
+          "uuid": "8e253930-4c05-31dd-1b6c-968525494517",
+          "displayName": "Omen",
+          "displayIcon": "https://media.valorant-api.com/agents/8e253930-4c05-31dd-1b6c-968525494517/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/8e253930-4c05-31dd-1b6c-968525494517/fullportrait.png",
+          "role": "Controller",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/4ee40330-ecdd-4f2f-98a8-eb1243428373/displayicon.png"
+        }
+      ],
+      "buddies": [
+        {
+          "uuid": "d70ae9a4-4ac0-fbcc-432a-3cadc5e8fdaa",
+          "displayName": "Blackthorn Buddy",
+          "displayIcon": "https://media.valorant-api.com/buddies/d70ae9a4-4ac0-fbcc-432a-3cadc5e8fdaa/displayicon.png"
+        }
+      ],
+      "sprays": [],
+      "cards": [
+        {
+          "uuid": "ceda65e4-4ac0-31bb-4f1f-43af3a980cd0",
+          "displayName": "Blackthorn Card",
+          "smallArt": "https://media.valorant-api.com/playercards/ceda65e4-4ac0-31bb-4f1f-43af3a980cd0/smallart.png",
+          "wideArt": "https://media.valorant-api.com/playercards/ceda65e4-4ac0-31bb-4f1f-43af3a980cd0/wideart.png",
+          "largeArt": "https://media.valorant-api.com/playercards/ceda65e4-4ac0-31bb-4f1f-43af3a980cd0/largeart.png"
+        }
+      ],
+      "titles": [],
+      "createdAt": "2026-05-18T14:31:56.152Z",
+      "updatedAt": "2026-05-18T14:31:56.152Z"
+    },
+    {
+      "id": "f254b9e8-f0b4-4d55-bd65-d4b685e1c462",
+      "title": "da213asdadsdas",
+      "description": "dasasd",
+      "price": 132212.96,
+      "currency": "USD",
+      "status": "available",
+      "region": "NA",
+      "featured": false,
+      "skins": [
+        {
+          "uuid": "9f51da57-4623-415a-6313-f49588297d0e",
+          "weaponName": "Vandal",
+          "displayName": "Champions 2021 Vandal",
+          "displayIcon": "https://media.valorant-api.com/weaponskinchromas/140a48ad-4daf-a6f8-027c-a5b890eac738/fullrender.png",
+          "rarity": "Exclusive",
+          "rarityColor": "#f5955b",
+          "vpCost": 2675
+        }
+      ],
+      "agents": [
+        {
+          "uuid": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
+          "displayName": "Sova",
+          "displayIcon": "https://media.valorant-api.com/agents/320b2a48-4d9b-a075-30f1-1f93a9b638fa/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/320b2a48-4d9b-a075-30f1-1f93a9b638fa/fullportrait.png",
+          "role": "Initiator",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/1b47567f-8f7b-444b-aae3-b0c634622d10/displayicon.png"
+        },
+        {
+          "uuid": "eb93336a-449b-9c1b-0a54-a891f7921d69",
+          "displayName": "Phoenix",
+          "displayIcon": "https://media.valorant-api.com/agents/eb93336a-449b-9c1b-0a54-a891f7921d69/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/eb93336a-449b-9c1b-0a54-a891f7921d69/fullportrait.png",
+          "role": "Duelist",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/dbe8757e-9e92-4ed4-b39f-9dfc589691d4/displayicon.png"
+        },
+        {
+          "uuid": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
+          "displayName": "Brimstone",
+          "displayIcon": "https://media.valorant-api.com/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417/fullportrait.png",
+          "role": "Controller",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/4ee40330-ecdd-4f2f-98a8-eb1243428373/displayicon.png"
+        },
+        {
+          "uuid": "569fdd95-4d10-43ab-ca70-79becc718b46",
+          "displayName": "Sage",
+          "displayIcon": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/fullportrait.png",
+          "role": "Sentinel",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/5fc02f99-4091-4486-a531-98459a3e95e9/displayicon.png"
+        },
+        {
+          "uuid": "add6443a-41bd-e414-f6ad-e58d267f4e95",
+          "displayName": "Jett",
+          "displayIcon": "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/fullportrait.png",
+          "role": "Duelist",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/dbe8757e-9e92-4ed4-b39f-9dfc589691d4/displayicon.png"
+        },
+        {
+          "uuid": "e370fa57-4757-3604-3648-499e1f642d3f",
+          "displayName": "Gekko",
+          "displayIcon": "https://media.valorant-api.com/agents/e370fa57-4757-3604-3648-499e1f642d3f/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/e370fa57-4757-3604-3648-499e1f642d3f/fullportrait.png",
+          "role": "Initiator",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/1b47567f-8f7b-444b-aae3-b0c634622d10/displayicon.png"
+        },
+        {
+          "uuid": "dade69b4-4f5a-8528-247b-219e5a1facd6",
+          "displayName": "Fade",
+          "displayIcon": "https://media.valorant-api.com/agents/dade69b4-4f5a-8528-247b-219e5a1facd6/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/dade69b4-4f5a-8528-247b-219e5a1facd6/fullportrait.png",
+          "role": "Initiator",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/1b47567f-8f7b-444b-aae3-b0c634622d10/displayicon.png"
+        },
+        {
+          "uuid": "5f8d3a7f-467b-97f3-062c-13acf203c006",
+          "displayName": "Breach",
+          "displayIcon": "https://media.valorant-api.com/agents/5f8d3a7f-467b-97f3-062c-13acf203c006/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/5f8d3a7f-467b-97f3-062c-13acf203c006/fullportrait.png",
+          "role": "Initiator",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/1b47567f-8f7b-444b-aae3-b0c634622d10/displayicon.png"
+        },
+        {
+          "uuid": "cc8b64c8-4b25-4ff9-6e7f-37b4da43d235",
+          "displayName": "Deadlock",
+          "displayIcon": "https://media.valorant-api.com/agents/cc8b64c8-4b25-4ff9-6e7f-37b4da43d235/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/cc8b64c8-4b25-4ff9-6e7f-37b4da43d235/fullportrait.png",
+          "role": "Sentinel",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/5fc02f99-4091-4486-a531-98459a3e95e9/displayicon.png"
+        },
+        {
+          "uuid": "b444168c-4e35-8076-db47-ef9bf368f384",
+          "displayName": "Tejo",
+          "displayIcon": "https://media.valorant-api.com/agents/b444168c-4e35-8076-db47-ef9bf368f384/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/b444168c-4e35-8076-db47-ef9bf368f384/fullportrait.png",
+          "role": "Initiator",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/1b47567f-8f7b-444b-aae3-b0c634622d10/displayicon.png"
+        },
+        {
+          "uuid": "f94c3b30-42be-e959-889c-5aa313dba261",
+          "displayName": "Raze",
+          "displayIcon": "https://media.valorant-api.com/agents/f94c3b30-42be-e959-889c-5aa313dba261/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/f94c3b30-42be-e959-889c-5aa313dba261/fullportrait.png",
+          "role": "Duelist",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/dbe8757e-9e92-4ed4-b39f-9dfc589691d4/displayicon.png"
+        },
+        {
+          "uuid": "22697a3d-45bf-8dd7-4fec-84a9e28c69d7",
+          "displayName": "Chamber",
+          "displayIcon": "https://media.valorant-api.com/agents/22697a3d-45bf-8dd7-4fec-84a9e28c69d7/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/22697a3d-45bf-8dd7-4fec-84a9e28c69d7/fullportrait.png",
+          "role": "Sentinel",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/5fc02f99-4091-4486-a531-98459a3e95e9/displayicon.png"
+        },
+        {
+          "uuid": "601dbbe7-43ce-be57-2a40-4abd24953621",
+          "displayName": "KAY/O",
+          "displayIcon": "https://media.valorant-api.com/agents/601dbbe7-43ce-be57-2a40-4abd24953621/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/601dbbe7-43ce-be57-2a40-4abd24953621/fullportrait.png",
+          "role": "Initiator",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/1b47567f-8f7b-444b-aae3-b0c634622d10/displayicon.png"
+        },
+        {
+          "uuid": "6f2a04ca-43e0-be17-7f36-b3908627744d",
+          "displayName": "Skye",
+          "displayIcon": "https://media.valorant-api.com/agents/6f2a04ca-43e0-be17-7f36-b3908627744d/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/6f2a04ca-43e0-be17-7f36-b3908627744d/fullportrait.png",
+          "role": "Initiator",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/1b47567f-8f7b-444b-aae3-b0c634622d10/displayicon.png"
+        },
+        {
+          "uuid": "117ed9e3-49f3-6512-3ccf-0cada7e3823b",
+          "displayName": "Cypher",
+          "displayIcon": "https://media.valorant-api.com/agents/117ed9e3-49f3-6512-3ccf-0cada7e3823b/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/117ed9e3-49f3-6512-3ccf-0cada7e3823b/fullportrait.png",
+          "role": "Sentinel",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/5fc02f99-4091-4486-a531-98459a3e95e9/displayicon.png"
+        },
+        {
+          "uuid": "7c8a4701-4de6-9355-b254-e09bc2a34b72",
+          "displayName": "Miks",
+          "displayIcon": "https://media.valorant-api.com/agents/7c8a4701-4de6-9355-b254-e09bc2a34b72/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/7c8a4701-4de6-9355-b254-e09bc2a34b72/fullportrait.png",
+          "role": "Controller",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/4ee40330-ecdd-4f2f-98a8-eb1243428373/displayicon.png"
+        },
+        {
+          "uuid": "1e58de9c-4950-5125-93e9-a0aee9f98746",
+          "displayName": "Killjoy",
+          "displayIcon": "https://media.valorant-api.com/agents/1e58de9c-4950-5125-93e9-a0aee9f98746/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/1e58de9c-4950-5125-93e9-a0aee9f98746/fullportrait.png",
+          "role": "Sentinel",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/5fc02f99-4091-4486-a531-98459a3e95e9/displayicon.png"
+        },
+        {
+          "uuid": "95b78ed7-4637-86d9-7e41-71ba8c293152",
+          "displayName": "Harbor",
+          "displayIcon": "https://media.valorant-api.com/agents/95b78ed7-4637-86d9-7e41-71ba8c293152/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/95b78ed7-4637-86d9-7e41-71ba8c293152/fullportrait.png",
+          "role": "Controller",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/4ee40330-ecdd-4f2f-98a8-eb1243428373/displayicon.png"
+        },
+        {
+          "uuid": "efba5359-4016-a1e5-7626-b1ae76895940",
+          "displayName": "Vyse",
+          "displayIcon": "https://media.valorant-api.com/agents/efba5359-4016-a1e5-7626-b1ae76895940/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/efba5359-4016-a1e5-7626-b1ae76895940/fullportrait.png",
+          "role": "Sentinel",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/5fc02f99-4091-4486-a531-98459a3e95e9/displayicon.png"
+        },
+        {
+          "uuid": "707eab51-4836-f488-046a-cda6bf494859",
+          "displayName": "Viper",
+          "displayIcon": "https://media.valorant-api.com/agents/707eab51-4836-f488-046a-cda6bf494859/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/707eab51-4836-f488-046a-cda6bf494859/fullportrait.png",
+          "role": "Controller",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/4ee40330-ecdd-4f2f-98a8-eb1243428373/displayicon.png"
+        },
+        {
+          "uuid": "92eeef5d-43b5-1d4a-8d03-b3927a09034b",
+          "displayName": "Veto",
+          "displayIcon": "https://media.valorant-api.com/agents/92eeef5d-43b5-1d4a-8d03-b3927a09034b/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/92eeef5d-43b5-1d4a-8d03-b3927a09034b/fullportrait.png",
+          "role": "Sentinel",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/5fc02f99-4091-4486-a531-98459a3e95e9/displayicon.png"
+        },
+        {
+          "uuid": "41fb69c1-4189-7b37-f117-bcaf1e96f1bf",
+          "displayName": "Astra",
+          "displayIcon": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/41fb69c1-4189-7b37-f117-bcaf1e96f1bf/fullportrait.png",
+          "role": "Controller",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/4ee40330-ecdd-4f2f-98a8-eb1243428373/displayicon.png"
+        },
+        {
+          "uuid": "0e38b510-41a8-5780-5e8f-568b2a4f2d6c",
+          "displayName": "Iso",
+          "displayIcon": "https://media.valorant-api.com/agents/0e38b510-41a8-5780-5e8f-568b2a4f2d6c/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/0e38b510-41a8-5780-5e8f-568b2a4f2d6c/fullportrait.png",
+          "role": "Duelist",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/dbe8757e-9e92-4ed4-b39f-9dfc589691d4/displayicon.png"
+        },
+        {
+          "uuid": "1dbf2edd-4729-0984-3115-daa5eed44993",
+          "displayName": "Clove",
+          "displayIcon": "https://media.valorant-api.com/agents/1dbf2edd-4729-0984-3115-daa5eed44993/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/1dbf2edd-4729-0984-3115-daa5eed44993/fullportrait.png",
+          "role": "Controller",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/4ee40330-ecdd-4f2f-98a8-eb1243428373/displayicon.png"
+        },
+        {
+          "uuid": "bb2a4828-46eb-8cd1-e765-15848195d751",
+          "displayName": "Neon",
+          "displayIcon": "https://media.valorant-api.com/agents/bb2a4828-46eb-8cd1-e765-15848195d751/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/bb2a4828-46eb-8cd1-e765-15848195d751/fullportrait.png",
+          "role": "Duelist",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/dbe8757e-9e92-4ed4-b39f-9dfc589691d4/displayicon.png"
+        },
+        {
+          "uuid": "7f94d92c-4234-0a36-9646-3a87eb8b5c89",
+          "displayName": "Yoru",
+          "displayIcon": "https://media.valorant-api.com/agents/7f94d92c-4234-0a36-9646-3a87eb8b5c89/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/7f94d92c-4234-0a36-9646-3a87eb8b5c89/fullportrait.png",
+          "role": "Duelist",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/dbe8757e-9e92-4ed4-b39f-9dfc589691d4/displayicon.png"
+        },
+        {
+          "uuid": "df1cb487-4902-002e-5c17-d28e83e78588",
+          "displayName": "Waylay",
+          "displayIcon": "https://media.valorant-api.com/agents/df1cb487-4902-002e-5c17-d28e83e78588/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/df1cb487-4902-002e-5c17-d28e83e78588/fullportrait.png",
+          "role": "Duelist",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/dbe8757e-9e92-4ed4-b39f-9dfc589691d4/displayicon.png"
+        },
+        {
+          "uuid": "a3bfb853-43b2-7238-a4f1-ad90e9e46bcc",
+          "displayName": "Reyna",
+          "displayIcon": "https://media.valorant-api.com/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/a3bfb853-43b2-7238-a4f1-ad90e9e46bcc/fullportrait.png",
+          "role": "Duelist",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/dbe8757e-9e92-4ed4-b39f-9dfc589691d4/displayicon.png"
+        },
+        {
+          "uuid": "8e253930-4c05-31dd-1b6c-968525494517",
+          "displayName": "Omen",
+          "displayIcon": "https://media.valorant-api.com/agents/8e253930-4c05-31dd-1b6c-968525494517/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/8e253930-4c05-31dd-1b6c-968525494517/fullportrait.png",
+          "role": "Controller",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/4ee40330-ecdd-4f2f-98a8-eb1243428373/displayicon.png"
+        }
+      ],
+      "buddies": [
+        {
+          "uuid": "eaf7cdf3-4471-1ebe-47ad-3f92a431e7b1",
+          "displayName": "Killer Frog Buddy",
+          "displayIcon": "https://media.valorant-api.com/buddylevels/0c76d14a-412b-74c6-d513-27a10938d1b4/displayicon.png"
+        }
+      ],
+      "sprays": [],
+      "cards": [],
+      "titles": [],
+      "createdAt": "2026-05-18T14:37:58.687Z",
+      "updatedAt": "2026-05-18T14:38:10.748Z",
+      "rank": "Radiant"
+    },
+    {
+      "id": "c83026e5-b9f7-4ff8-b4a3-33ddcee82b27",
+      "title": "231213231",
+      "price": 321231,
+      "currency": "USD",
+      "status": "available",
+      "region": "BR",
+      "rank": "Immortal 3",
+      "featured": true,
+      "skins": [
+        {
+          "uuid": "524b0c42-47da-e7ca-dc04-85ba285b2e71",
+          "weaponName": "Phantom",
+          "displayName": "Champions 2022 Phantom",
+          "displayIcon": "https://media.valorant-api.com/weaponskinchromas/0d81cec6-46a2-300f-c3c6-7aa67c2b8547/fullrender.png",
+          "rarity": "Exclusive",
+          "rarityColor": "#f5955b",
+          "vpCost": 2675
+        },
+        {
+          "uuid": "28a7fd58-425c-6aa7-40d6-539d5fdac46c",
+          "weaponName": "Phantom",
+          "displayName": "Radiant Entertainment System Phantom",
+          "displayIcon": "https://media.valorant-api.com/weaponskinchromas/4f04a759-4406-9ab7-18b4-0a9044ecdd60/fullrender.png",
+          "rarity": "Ultra",
+          "rarityColor": "#fad663",
+          "vpCost": 2975,
+          "chromas": [
+            {
+              "uuid": "4f04a759-4406-9ab7-18b4-0a9044ecdd60",
+              "swatch": "https://media.valorant-api.com/weaponskinchromas/4f04a759-4406-9ab7-18b4-0a9044ecdd60/swatch.png"
+            },
+            {
+              "uuid": "a9aa0b3b-4f6b-52eb-ce5c-4fae5eb240ab",
+              "swatch": "https://media.valorant-api.com/weaponskinchromas/a9aa0b3b-4f6b-52eb-ce5c-4fae5eb240ab/swatch.png"
+            },
+            {
+              "uuid": "91e9bfbe-4de0-03d1-d1ea-1d8fcea4a7ab",
+              "swatch": "https://media.valorant-api.com/weaponskinchromas/91e9bfbe-4de0-03d1-d1ea-1d8fcea4a7ab/swatch.png"
+            }
+          ]
+        }
+      ],
+      "agents": [
+        {
+          "uuid": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
+          "displayName": "Sova",
+          "displayIcon": "https://media.valorant-api.com/agents/320b2a48-4d9b-a075-30f1-1f93a9b638fa/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/320b2a48-4d9b-a075-30f1-1f93a9b638fa/fullportrait.png",
+          "role": "Initiator",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/1b47567f-8f7b-444b-aae3-b0c634622d10/displayicon.png"
+        },
+        {
+          "uuid": "eb93336a-449b-9c1b-0a54-a891f7921d69",
+          "displayName": "Phoenix",
+          "displayIcon": "https://media.valorant-api.com/agents/eb93336a-449b-9c1b-0a54-a891f7921d69/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/eb93336a-449b-9c1b-0a54-a891f7921d69/fullportrait.png",
+          "role": "Duelist",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/dbe8757e-9e92-4ed4-b39f-9dfc589691d4/displayicon.png"
+        },
+        {
+          "uuid": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
+          "displayName": "Brimstone",
+          "displayIcon": "https://media.valorant-api.com/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417/fullportrait.png",
+          "role": "Controller",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/4ee40330-ecdd-4f2f-98a8-eb1243428373/displayicon.png"
+        },
+        {
+          "uuid": "569fdd95-4d10-43ab-ca70-79becc718b46",
+          "displayName": "Sage",
+          "displayIcon": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/fullportrait.png",
+          "role": "Sentinel",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/5fc02f99-4091-4486-a531-98459a3e95e9/displayicon.png"
+        },
+        {
+          "uuid": "add6443a-41bd-e414-f6ad-e58d267f4e95",
+          "displayName": "Jett",
+          "displayIcon": "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/fullportrait.png",
+          "role": "Duelist",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/dbe8757e-9e92-4ed4-b39f-9dfc589691d4/displayicon.png"
+        }
+      ],
+      "buddies": [
+        {
+          "uuid": "4726b751-493b-3c00-825d-539d75df4db9",
+          "displayName": "Afterboom Buddy",
+          "displayIcon": "https://media.valorant-api.com/buddylevels/60586b16-4fed-d337-ce84-4b8beebea636/displayicon.png"
+        },
+        {
+          "uuid": "20766756-4bc1-fd7b-525f-94b79a151308",
+          "displayName": "EP9: Immortal Buddy",
+          "displayIcon": "https://media.valorant-api.com/buddylevels/e5cbb434-4f36-7777-15fa-1c84a2e40677/displayicon.png"
+        }
+      ],
+      "sprays": [],
+      "cards": [],
+      "titles": [],
+      "createdAt": "2026-05-18T14:41:58.649Z",
+      "updatedAt": "2026-05-18T14:59:28.334Z"
+    },
+    {
+      "id": "8a810350-b573-4640-ab0d-8c0181eb997d",
+      "title": "dsaasd",
+      "description": "adasasd",
+      "price": 1212,
+      "currency": "USD",
+      "status": "available",
+      "region": "NA",
+      "rank": "Radiant",
+      "featured": false,
+      "skins": [
+        {
+          "uuid": "501811a4-4d60-d1fd-2775-ea92530ccbfa",
+          "weaponName": "Odin",
+          "displayName": "Sovereign Odin",
+          "displayIcon": "https://media.valorant-api.com/weaponskinchromas/a16360a6-4588-1cdf-d0e2-0ea215dc9faa/fullrender.png",
+          "rarity": "Premium",
+          "rarityColor": "#d1548d",
+          "vpCost": 1775,
+          "chromas": [
+            {
+              "uuid": "a16360a6-4588-1cdf-d0e2-0ea215dc9faa",
+              "swatch": "https://media.valorant-api.com/weaponskinchromas/a16360a6-4588-1cdf-d0e2-0ea215dc9faa/swatch.png"
+            },
+            {
+              "uuid": "4bc5a7a3-4283-687e-6a90-c3bd6ade055b",
+              "swatch": "https://media.valorant-api.com/weaponskinchromas/4bc5a7a3-4283-687e-6a90-c3bd6ade055b/swatch.png"
+            },
+            {
+              "uuid": "3d42de8a-4879-6ed6-451f-8faf531dcf54",
+              "swatch": "https://media.valorant-api.com/weaponskinchromas/3d42de8a-4879-6ed6-451f-8faf531dcf54/swatch.png"
+            },
+            {
+              "uuid": "d07a79a4-4dcd-8574-ead5-ba8d08786113",
+              "swatch": "https://media.valorant-api.com/weaponskinchromas/d07a79a4-4dcd-8574-ead5-ba8d08786113/swatch.png"
+            }
+          ]
+        }
+      ],
+      "agents": [
+        {
+          "uuid": "320b2a48-4d9b-a075-30f1-1f93a9b638fa",
+          "displayName": "Sova",
+          "displayIcon": "https://media.valorant-api.com/agents/320b2a48-4d9b-a075-30f1-1f93a9b638fa/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/320b2a48-4d9b-a075-30f1-1f93a9b638fa/fullportrait.png",
+          "role": "Initiator",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/1b47567f-8f7b-444b-aae3-b0c634622d10/displayicon.png"
+        },
+        {
+          "uuid": "eb93336a-449b-9c1b-0a54-a891f7921d69",
+          "displayName": "Phoenix",
+          "displayIcon": "https://media.valorant-api.com/agents/eb93336a-449b-9c1b-0a54-a891f7921d69/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/eb93336a-449b-9c1b-0a54-a891f7921d69/fullportrait.png",
+          "role": "Duelist",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/dbe8757e-9e92-4ed4-b39f-9dfc589691d4/displayicon.png"
+        },
+        {
+          "uuid": "9f0d8ba9-4140-b941-57d3-a7ad57c6b417",
+          "displayName": "Brimstone",
+          "displayIcon": "https://media.valorant-api.com/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/9f0d8ba9-4140-b941-57d3-a7ad57c6b417/fullportrait.png",
+          "role": "Controller",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/4ee40330-ecdd-4f2f-98a8-eb1243428373/displayicon.png"
+        },
+        {
+          "uuid": "569fdd95-4d10-43ab-ca70-79becc718b46",
+          "displayName": "Sage",
+          "displayIcon": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/569fdd95-4d10-43ab-ca70-79becc718b46/fullportrait.png",
+          "role": "Sentinel",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/5fc02f99-4091-4486-a531-98459a3e95e9/displayicon.png"
+        },
+        {
+          "uuid": "add6443a-41bd-e414-f6ad-e58d267f4e95",
+          "displayName": "Jett",
+          "displayIcon": "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/displayicon.png",
+          "fullPortrait": "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/fullportrait.png",
+          "role": "Duelist",
+          "roleIcon": "https://media.valorant-api.com/agents/roles/dbe8757e-9e92-4ed4-b39f-9dfc589691d4/displayicon.png"
+        }
+      ],
+      "buddies": [],
+      "sprays": [],
+      "cards": [],
+      "titles": [],
+      "createdAt": "2026-05-18T14:49:26.871Z",
+      "updatedAt": "2026-05-18T14:49:26.871Z"
+    }
+  ],
+  "lastUpdated": "2026-05-18T14:59:28.334Z"
+}

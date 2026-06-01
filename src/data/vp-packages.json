@@ -1,0 +1,52 @@
+{
+  "packages": [
+    {
+      "id": "vp-475",
+      "amount": 475,
+      "bonus": 0,
+      "price": 4.99,
+      "currency": "USD",
+      "popular": false
+    },
+    {
+      "id": "vp-1000",
+      "amount": 1000,
+      "bonus": 100,
+      "price": 9.99,
+      "currency": "USD",
+      "popular": false
+    },
+    {
+      "id": "vp-2050",
+      "amount": 2050,
+      "bonus": 200,
+      "price": 19.99,
+      "currency": "USD",
+      "popular": true
+    },
+    {
+      "id": "vp-3650",
+      "amount": 3650,
+      "bonus": 350,
+      "price": 34.99,
+      "currency": "USD",
+      "popular": false
+    },
+    {
+      "id": "vp-5350",
+      "amount": 5350,
+      "bonus": 500,
+      "price": 49.99,
+      "currency": "USD",
+      "popular": false
+    },
+    {
+      "id": "vp-11000",
+      "amount": 11000,
+      "bonus": 1000,
+      "price": 99.99,
+      "currency": "USD",
+      "popular": false
+    }
+  ]
+}
